@@ -21,7 +21,7 @@ As a data analyst, I have been given sample data and a mock-up dashboard to work
 
  ## Analysis View
  <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
+    <img src='https://github.com/d33pak943/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/Dashboard.png' width="600">
 </p>
 
  ## Some Important insights from the Dashboard
