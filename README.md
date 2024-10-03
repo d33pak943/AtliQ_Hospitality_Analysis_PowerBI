@@ -34,7 +34,6 @@ As a data analyst, I have been given sample data and a mock-up dashboard to work
 - AtliQ lost around 298 Million in cancellation 
 
  ## Learnt things from this Project
-- Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze.
 - By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
 - Learnt, how to use bookmarks and selection for different purposes.  
 - Tried using color palette and stick with that colors throughout the dashboard.
