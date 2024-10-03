@@ -10,7 +10,14 @@ As a data analyst, I have been given sample data and a mock-up dashboard to work
 - Building the dashboard based on the mock-up shared by stakeholders.
 - Identifying and generating relevant insights beyond those mentioned in the metric list/mock-up dashboard.
  ## Provided Mock-up Dashboard
+ <p align="center">
+    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
+</p>
  ## Data Model
+ <p align="center">
+    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
+</p>
+
  ## Analysis View
  ## Some Important insights from the Dashboard
  ## Learnt things from this Project
