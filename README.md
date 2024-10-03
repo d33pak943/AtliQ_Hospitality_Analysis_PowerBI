@@ -13,9 +13,10 @@ As a data analyst, I have been given sample data and a mock-up dashboard to work
  <p align="center">
     <img src="https://github.com/d33pak943/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/mock%20up%20dashboard_atliq%20grands.png" width="600">
 </p>
+
  ## Data Model
  <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
+    <img src='https://github.com/d33pak943/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/Data%20Model.png' height="400">
 </p>
 
  ## Analysis View
